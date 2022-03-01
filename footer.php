@@ -1,3 +1,7 @@
+</div> 
+</div> 
+</div> 
+  
   <!-- Footer -->
   <footer class="sticky-footer bg-white shadow">
     <div class="container my-auto">

@@ -29,12 +29,15 @@
 
                     </div>
                     
-                    <div class="mt-5 text-center"><button class="btn btn-primary profile-button" type="button">Sauvgarder</button></div>
+                    <div class="mt-5 text-center" ><button class="btn btn-primary profile-button" type="button">Sauvgarder</button></div>
+                    
                 </div>
             </div>
         </div>
     </div>
     </div>
     </div>
+
+ 
  
     <?php require('footer.php')?>
